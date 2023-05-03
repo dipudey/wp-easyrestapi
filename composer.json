@@ -1,0 +1,22 @@
+{
+    "name": "wp/easyrestapi",
+    "description": "Easy way rest api declare in oop",
+    "type": "library",
+    "license": "MIT",
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wp\\Easyrestapi\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dipu Dey",
+            "email": "dipudey764@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
